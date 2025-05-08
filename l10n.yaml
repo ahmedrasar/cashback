@@ -1,0 +1,7 @@
+arb-dir: lib/l10n
+template-arb-file: cashback_en.arb
+output-localization-file: cashback_localizations.dart
+output-class: CashbackLocalizations
+nullable-getter: false
+synthetic-package: false
+untranslated-messages-file: untraslated.txt

@@ -1,0 +1,72 @@
+{
+    "@@locale": "en",
+    "points": "Points",
+    "totalCollectedPoints": "Total Collected Points",
+    "level": "Level",
+    "point": "Point",
+    "registry": "Registry",
+    "howToCollect": "How to collect?",
+    "howToWin": "How to win?",
+    "collectMoreLabel": "Collect more points to join prize contests!",
+    "weeklyContest": "Weekly Contest",
+    "monthlyContest": "Monthly Contest",
+    "quarterlyContest": "Quarterly Contest",
+    "rank": "Rank",
+    "toFirstRank": "To First Rank",
+    "rewardsTableLabel": "Leaderboard for Prizes",
+    "competeToWinLabel": "Compete to reach the top before each contest ends to win the prize",
+    "win": "Win",
+    "weekly": "Weekly",
+    "monthly": "Monthly",
+    "quarterly": "Quarterly",
+    "lockedContestTableLabel": "Earn Your {period} Points",
+    "@lockedContestTableLabel": {
+        "placeholders": {
+            "period": {
+                "type": "String"
+            }
+        }
+    },
+    "lockedContestTableBody": "Start competing for the {period} prize",
+    "@lockedContestTableBody": {
+        "placeholders": {
+            "period": {
+                "type": "String"
+            }
+        }
+    },
+    "howToCollectSubtitle": "Win prizes with every point!",
+    "howToCollectS1Label": "Collect points with every order",
+    "howToCollectS1Body": "Every 1 EGP in your completed order gives you one point closer to winning amazing prizes",
+    "howToCollectS2Label": "Level up to earn bonus points",
+    "howToCollectS2Body": "The higher your level, the more points you earn",
+    "howToCollectS3Label": "Look for special offers",
+    "howToCollectS3Body": "Discover offers that boost your points even more",
+    "howToCollectS4Label": "Don't miss special events",
+    "howToCollectS4Body": "Watch out for special events where you can multiply your points",
+    "theMoreYouCollectLabel": "The more points you collect, the more rewards you get!",
+    "startCollectingTody": "Start Collecting Today",
+    "howToWinSubtitle": "Join and rise to the top!",
+    "howToWinS1Label": "Automatic enrollment",
+    "howToWinS1Body": "Get the required points and you'll be in the contest",
+    "howToWinS2Label": "Compete to be first",
+    "howToWinS2Body": "Compete with other pharmacies for first place and the grand prize",
+    "howToWinS3Label": "Track your progress",
+    "howToWinS3Body": "The leaderboard keeps you updated on your rank and progress",
+    "howToWinS4Label": "Win and claim your prize",
+    "howToWinS4Body": "At the end of each contest, the winner is announced. If it's you, a special window will guide you to claim your prize",
+    "pushToTheTop": "Keep Pushing to The Top",
+    "collectedPointsRegistry": "Collected Points Registry",
+    "rewards": "Prizes",
+    "noItemsFound": "No Items Found",
+    "noItemsFoundBody": "This list is currently empty",
+    "completedRequest": "Request #{id} completed successfully",
+    "@completedRequest": {
+        "placeholders": {
+            "id": {
+                "type": "String"
+            }
+        }
+    },
+    "currencyCode": "EGP"
+}

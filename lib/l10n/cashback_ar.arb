@@ -1,0 +1,72 @@
+{
+    "@@locale": "ar",
+    "points": "النقاط",
+    "totalCollectedPoints": "إجمالي النقاط المجمعة",
+    "level": "المستوى",
+    "point": "نقطة",
+    "registry": "السجل",
+    "howToCollect": "كيف اجمع؟",
+    "howToWin": "كيف افوز؟",
+    "collectMoreLabel": "!جمع المزيد من النقاط للانضمام الى مسابقات الجوائز",
+    "weeklyContest": "المسابقة الاسبوعية",
+    "monthlyContest": "المسابقة الشهرية",
+    "quarterlyContest": "المسابقة الربع سنوية",
+    "rank": "الرتبة",
+    "toFirstRank": "حتى الرتبة الاولى",
+    "rewardsTableLabel": "قائمة الاوائل للجوائز",
+    "competeToWinLabel": "تنافس للحصول علي المرتبة الاولى قبل نهاية كل مسابقة للفوز بالجائزة",
+    "win": "اربح",
+    "weekly": "الاسبوعية",
+    "monthly": "الشهرية",
+    "quarterly": "الربع سنوية",
+    "lockedContestTableLabel": "حقق نقاطك {period}",
+    "@lockedContestTableLabel": {
+        "placeholders": {
+            "period": {
+                "type": "String"
+            }
+        }
+    },
+    "lockedContestTableBody": "للبدء في المنافسة علي الجائزة {period}",
+    "@lockedContestTableBody": {
+        "placeholders": {
+            "period": {
+                "type": "String"
+            }
+        }
+    },
+    "howToCollectSubtitle": "!اربح جوائز حصرية مع كل نقطة",
+    "howToCollectS1Label": "جمع نقاط مع كل طلبية",
+    "howToCollectS1Body": "كل 1 EGP في طلبيتك المكتملة تمنحك نقطة واحدة أقرب للفوز بجوائز مذهلة",
+    "howToCollectS2Label": "ارتق الى المستوى الأعلى للحصول على نقاط اضافية",
+    "howToCollectS2Body": "كلما ارتفع مستواك كلما ربحت نقاطا أكثر",
+    "howToCollectS3Label": "ابحث عن العروض الخاصة",
+    "howToCollectS3Body": "اكتشف العروض التي تزيد من نقاطك أكثر",
+    "howToCollectS4Label": "لا تفوت الأحداث الخاصة",
+    "howToCollectS4Body": "ترقب الأحداث الخاصة حيث يمكنك مضاعفة نقاطك",
+    "theMoreYouCollectLabel": "كلما زادت النقاط المجمعة زادت الجوائز!",
+    "startCollectingTody": "ابدأ في الجمع اليوم",
+    "howToWinSubtitle": "انضم الي المسابقة و اصعد الي القمة!",
+    "howToWinS1Label": "الانضمام التلقائي",
+    "howToWinS1Body": "احصل علي نقاط المطلوبة و ستكون في المسابقة",
+    "howToWinS2Label": "تنافس لتكون الأول",
+    "howToWinS2Body": "تنافس مع الصيدليات الأخرى علي المركز الأول و الجائزة الكبرى",
+    "howToWinS3Label": "تتبع تقدمك",
+    "howToWinS3Body": "يبقيك قائمة الاوائل علي اطلاع دائم بترتيبك و تقدمك في المنافسة",
+    "howToWinS4Label": "اربح واحصل على جائزتك",
+    "howToWinS4Body": "في نهاية كل مسابقة يتم الاعلان عن الفائز اذا كنت انت الفائز فستوجهك نافذة خاصة لاستلام جائزتك",
+    "pushToTheTop": "استمر في التقدم نحو القمة",
+    "collectedPointsRegistry": "سجل النقاط المجمعة",
+    "rewards": "الجوائز",
+    "noItemsFound": "لم يتم العثور على عناصر",
+    "noItemsFoundBody": "هذة القائمة فارغة حاليا",
+    "completedRequest": "استكمال الطلب {id}#",
+    "@completedRequest": {
+        "placeholders": {
+            "id": {
+                "type": "String"
+            }
+        }
+    },
+    "currencyCode": "ج.م"
+}
